@@ -150,7 +150,7 @@ export default function About() {
               className="text-muted text-base leading-relaxed mb-8"
               style={{ fontFamily: "'DM Sans', sans-serif" }}
             >
-              We believe a healthy smile transforms lives. That's why we combine
+              We believe a healthy smile transforms lives. That&apos;s why we combine
               cutting-edge technology with a gentle, patient-first approach — ensuring
               every visit is as comfortable as possible.
             </p>

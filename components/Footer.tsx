@@ -85,7 +85,7 @@ export default function Footer() {
               className="text-white/60 text-sm leading-relaxed mb-6"
               style={{ fontFamily: "'DM Sans', sans-serif" }}
             >
-              Bangalore's most trusted dental clinic since 2014. Modern technology,
+              Bangalore&apos;s most trusted dental clinic since 2014. Modern technology,
               experienced dentists, and a commitment to your smile.
             </p>
 

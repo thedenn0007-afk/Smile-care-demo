@@ -103,7 +103,7 @@ export default function Hero() {
               style={{ fontFamily: "'DM Sans', sans-serif" }}
             >
               <Star className="w-4 h-4 text-yellow-300 fill-yellow-300" />
-              Bangalore's Trusted Dental Care
+              Bangalore&apos;s Trusted Dental Care
               <span className="w-2 h-2 rounded-full bg-accent animate-pulse" />
             </motion.div>
 

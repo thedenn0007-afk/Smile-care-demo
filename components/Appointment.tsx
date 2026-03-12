@@ -104,7 +104,7 @@ export default function Appointment() {
               className="text-white/70 text-lg leading-relaxed mb-8"
               style={{ fontFamily: "'DM Sans', sans-serif" }}
             >
-              Book an appointment online or reach us directly. We'll confirm your slot
+              Book an appointment online or reach us directly. We&apos;ll confirm your slot
               within 30 minutes during clinic hours.
             </p>
 
@@ -208,7 +208,7 @@ export default function Appointment() {
                     className="text-muted mb-6"
                     style={{ fontFamily: "'DM Sans', sans-serif" }}
                   >
-                    Thank you, {form.name}! We'll confirm your appointment on {form.phone} within 30 minutes.
+                    Thank you, {form.name}! We&apos;ll confirm your appointment on {form.phone} within 30 minutes.
                   </p>
                   <button
                     onClick={() => setSubmitted(false)}
